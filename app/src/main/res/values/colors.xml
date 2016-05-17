@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent_overlay">#55ffffff</color>
+    <color name="letter_gray">#514a40</color>
+    <color name="affectiva_orange">#ff8000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#cf1a0b</color>
+
+    <color name="grid_item_not_chosen">#646464</color>
+    <color name="grid_item_chosen">#009600</color>
+    <color name="grid_item_chosen_over_limit">#cf1a0b</color>
+
+    <color name="controls_active">@android:color/holo_blue_dark</color>
+    <color name="controls_normal">#fff5f5f5</color>
+    <!-- showqueue info -->
+    <color name="now_playing_marker">@android:color/holo_blue_dark</color>
+    <!-- library tabs -->
+    <color name="tabs_background">#ff1e1e1e</color>
+    <color name="tabs_active_indicator">@android:color/holo_blue_dark</color>
+
+    <color name="overlay_background_light">#fffafafa</color>
+
+    <color name="material_grey_300">#ffeeeeee</color>
+    <color name="material_grey_400">#bdbdbd</color>
+    <color name="material_grey_500">#ffa3a3a3</color>
+    <color name="material_grey_600">#ff757575</color>
+    <color name="material_grey_900">#ff212121</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    <color name="button_material_dark">#ff5a595b</color>
+
+    <!-- Material design primary colors -->
+    <color name="vanillaPrimary">#ff37474f</color>
+    <color name="vanillaPrimaryDark">#ff263238</color>
+    <color name="vanillaAccent">#ff3e677a</color>
+
+    <!-- now-playing screen buttons tint -->
+
+    <color name="overlay_foreground_light">#f000</color>
+
+    <color name="overlay_background_dark">#ff303030</color>
+    <color name="overlay_foreground_dark">#ffffffff</color>
+
+</resources>
