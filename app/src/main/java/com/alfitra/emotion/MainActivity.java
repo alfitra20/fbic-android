@@ -559,7 +559,27 @@ public class MainActivity extends AppCompatActivity
                     getFaceScoreMethod = Face.Emotions.class.getMethod("get" + MetricsManager.getCamelCase(metric));
 
 
-                    //should be the place to put the code for detection
+                    //should be the place to put the coding for detection
+                    //Angry reaction
+                    if (metric == MetricsManager.Emotions.ANGER){
+                        //Angry coding is here
+
+                    }
+
+                    if (metric == MetricsManager.Emotions.FEAR){
+                        //Fear coding lies here
+
+                    }
+
+                    if (metric == MetricsManager.Emotions.JOY){
+                        //Happy coding lies here
+
+                    }
+
+                    if (metric == MetricsManager.Emotions.SADNESS){
+                        //Sad coding lies here
+
+                    }
 
                     //The MetricDisplay for Valence is unique; it shades it color depending on the metric value
                     if (metric == MetricsManager.Emotions.VALENCE) {

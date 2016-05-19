@@ -27,8 +27,8 @@
     <string name="register_disclaimer">By clicking Register you are indicating that you are read and agree to the Terms Of Service</string>
 
     <string name="userGender">Gender</string>
-    <string name="gender_male">Male</string>
-    <string name="gender_female">Female</string>
+    <string name="gender_male">male</string>
+    <string name="gender_female">female</string>
 
     <string name="title_activity_login">Login</string>
     <string name="title_activity_regiter">Register</string>
